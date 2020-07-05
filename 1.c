@@ -7,3 +7,7 @@ int main(void)
 	return 0;
 }
 
+void ys(void)
+{
+	printf("Hello!");
+}
